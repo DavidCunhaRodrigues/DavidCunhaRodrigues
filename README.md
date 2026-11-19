@@ -25,6 +25,10 @@ React, Next.js, TypeScript, Tailwind CSS et l'intégration d'API REST. Je me fam
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Bases de données :** SQL, PL/SQL, modélisation MCD / MLDR
-**Conception :** POO, architecture modulaire, algorithmique, prototypage UX/UI
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MCD / MLDR](https://img.shields.io/badge/MCD_%2F_MLDR-4B5563?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![POO](https://img.shields.io/badge/POO-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Architecture modulaire](https://img.shields.io/badge/Architecture_modulaire-4B5563?style=for-the-badge)
+![Algorithmique](https://img.shields.io/badge/Algorithmique-4B5563?style=for-the-badge)
+![Prototypage UX/UI](https://img.shields.io/badge/Prototypage_UX%2FUI-0055FF?style=for-the-badge&logo=framer&logoColor=white)
