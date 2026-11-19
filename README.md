@@ -1,6 +1,9 @@
 ## Salut, moi c'est David 👋
 
-**Étudiant en L3 MIAGE à l'Université d'Orléans**, à la recherche d'un **stage en développement logiciel dès le 17 mai**, avant de poursuivre en **alternance en Master MIAGE**.
+**Étudiant en L3 MIAGE à l'Université d'Orléans**
+
+### 🤝 Ouvert à
+Des opportunités de stage en développement logiciel ou en systèmes d'information.
 
 ### 🔭 Sur quoi je travaille
 - **Swipe&Chill** : une application web où deux personnes trient des films chacune de leur côté, dans un salon privé synchronisé, jusqu'à trouver un match commun (Next.js, React, TypeScript, Tailwind CSS, API TMDB)
@@ -25,13 +28,3 @@ React, Next.js, TypeScript, Tailwind CSS et l'intégration d'API REST. Je me fam
 
 **Bases de données :** SQL, PL/SQL, modélisation MCD / MLDR
 **Conception :** POO, architecture modulaire, algorithmique, prototypage UX/UI
-
-### 🤝 Ouvert à
-Des opportunités de stage en développement logiciel ou en systèmes d'information.
-
-### 📫 Me contacter
-- ✉️ cunharodriguesdavid@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-cunha-rodrigues-96673a450)
-
-### 🌍 Langues
-Français (courant), Portugais (courant), Anglais (capacité à échanger et travailler en contexte professionnel)
