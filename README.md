@@ -28,4 +28,3 @@ React, Next.js, TypeScript, Tailwind CSS et l'intégration d'API REST. Je me fam
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MCD / MLDR](https://img.shields.io/badge/MCD_%2F_MLDR-4B5563?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Architecture modulaire](https://img.shields.io/badge/Architecture_modulaire-4B5563?style=for-the-badge)
